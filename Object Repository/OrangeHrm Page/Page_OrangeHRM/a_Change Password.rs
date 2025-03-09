@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Change Password</name>
+   <tag></tag>
+   <elementGuidId>5055386f-98d2-4c93-93f9-dcc005807bed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/web/index.php/pim/updatePassword']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/web\/index\.php\/pim\/updatePassword&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;Change Password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8bc40af4-bcba-4bd8-a8f7-fb89cd821bff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/index.php/pim/updatePassword</value>
+      <webElementGuid>3d7d094a-b9ac-41bd-a379-00a8cd1e750d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>046acdbb-78b7-466b-8536-dce5c0e3c286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-userdropdown-link</value>
+      <webElementGuid>b2373f90-a770-414e-b2f3-4d0f85c20a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change Password</value>
+      <webElementGuid>b52df0e3-a04e-40a5-ac62-a6ebf69112ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Change Password</value>
+      <webElementGuid>3da936ed-bc3a-4c7e-ac3c-ecc78bdff354</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-26633de7f1da508a80b39d3a9f95ac6f</value>
+      <webElementGuid>220d5c29-0015-459c-ba66-42a4925c319f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/web/index.php/pim/updatePassword']</value>
+      <webElementGuid>b3d05876-f450-44a9-a690-28d28749d972</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/web/index.php/pim/updatePassword']</value>
+      <webElementGuid>97240d1b-f74c-4a21-95ed-1870638e7c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/index.php/pim/updatePassword' and (text() = 'Change Password' or . = 'Change Password')]</value>
+      <webElementGuid>6d285620-9b51-4e48-831e-1dc9a0548f65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

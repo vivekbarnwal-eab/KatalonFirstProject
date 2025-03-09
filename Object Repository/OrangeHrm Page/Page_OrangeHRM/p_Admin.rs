@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Admin</name>
+   <tag></tag>
+   <elementGuidId>680c86d4-af4b-4ae9-80a4-27ef19f71b80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text--p ') and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-user-name ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-text--p.orangehrm-user-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>p >> internal:has-text=&quot;Admin&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>56b77832-1716-43b4-a419-a598beaa5ccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p orangehrm-user-name</value>
+      <webElementGuid>e3629cca-d1da-4fa9-8c94-82dd990ce098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin</value>
+      <webElementGuid>abaab6ec-82b5-43e6-8f25-42a49a48d941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Admin</value>
+      <webElementGuid>db5c74fa-ee02-41ef-ac06-36477b8ab45d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-af5a3c5f300a24de6247a3563c2cf668</value>
+      <webElementGuid>ea555d0e-ad8c-4d49-ae98-b6eff0206ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text--p ') and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-user-name ')]</value>
+      <webElementGuid>4f3b5a94-7917-4907-af33-faeae20257ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text--p ') and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-user-name ')]</value>
+      <webElementGuid>8103a1eb-e54a-47a6-85a4-6ffbd591ac1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Admin' or . = 'Admin')]</value>
+      <webElementGuid>dd440a2a-788f-4362-915b-0f2ca4e2ade1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

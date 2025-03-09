@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logout from Hrm Page</description>
+   <name>OTC003_Logout from Hrm Page</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d89843a5-5140-46be-a4a5-728ad88da04f</testCaseGuid>
+</TestCaseEntity>

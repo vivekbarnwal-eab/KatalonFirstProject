@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Required_1</name>
+   <tag></tag>
+   <elementGuidId>5e400d5d-4650-4457-a657-b73c8dccffef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item ') and contains(concat(' ', normalize-space(@class), ' '), ' user-password-cell ')]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-field-error-message ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-grid-item--gutters.oxd-grid-item.user-password-cell span.oxd-text.oxd-input-field-error-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^PasswordRequired$/ >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>42d04aeb-39af-4812-b1b7-03ad4ece3e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message</value>
+      <webElementGuid>03918deb-2fce-41a9-b28a-d0b9f90d7390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Required</value>
+      <webElementGuid>469c2675-9631-42fe-9640-40b31202abca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Required</value>
+      <webElementGuid>d569663f-cf11-48fb-a108-ef71f3e108e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b7193cd495ba7c8bdc98459ea097b91f</value>
+      <webElementGuid>983178d9-ee98-4f7d-b7d7-ba529d2ef1a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item ') and contains(concat(' ', normalize-space(@class), ' '), ' user-password-cell ')]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-field-error-message ')]</value>
+      <webElementGuid>3e657e0d-b685-4650-8ec9-25ca2a6bb1da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item ') and contains(concat(' ', normalize-space(@class), ' '), ' user-password-cell ')]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-field-error-message ')]</value>
+      <webElementGuid>c8d716b3-c37f-4838-ac2d-c49f5688c397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Required' or . = 'Required')]</value>
+      <webElementGuid>91cf576c-8305-4a4b-86de-b69d267b5d38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

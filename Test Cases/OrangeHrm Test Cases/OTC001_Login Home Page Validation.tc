@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Home Page Validation</description>
+   <name>OTC001_Login Home Page Validation</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8b2a68d-a8f5-4fa0-bf10-e95fc20ee1d7</testCaseGuid>
+</TestCaseEntity>

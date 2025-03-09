@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Support Page</description>
+   <name>OTC005_Support Page</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1faaadd1-b6e8-4f08-85b1-e90d18cf3020</testCaseGuid>
+</TestCaseEntity>

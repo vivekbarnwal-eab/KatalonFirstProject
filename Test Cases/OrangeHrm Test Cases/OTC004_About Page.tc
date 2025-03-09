@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>About Page</description>
+   <name>OTC004_About Page</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45c0f178-69ec-43e7-bb98-db1e644a15a9</testCaseGuid>
+</TestCaseEntity>

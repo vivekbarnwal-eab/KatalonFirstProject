@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Admin</name>
+   <tag></tag>
+   <elementGuidId>96d310ad-e2ed-49b3-a2b4-2090fd337f31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-table-cell ') and (position() = 2)]//*[@data-v-6c07a142 = '']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-table-cell:nth-child(2) [data-v-6c07a142=&quot;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Admin&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>44b897f8-adba-4233-90e8-3cd084190afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin</value>
+      <webElementGuid>5a284ee1-b3e1-4dae-aa50-a43a1cfb2f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Admin</value>
+      <webElementGuid>00c2611d-29da-4c4f-9a39-47b290d2e9c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c77b8611e51151c9aa3a53b3bb675bb7</value>
+      <webElementGuid>9904954f-dd90-4d18-8d37-1e3c40c57094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-table-cell ') and (position() = 2)]//*[@data-v-6c07a142 = '']</value>
+      <webElementGuid>414904b7-d12e-4d9f-9a47-5a2b3340b382</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-table-cell ') and (position() = 2)]//*[@data-v-6c07a142 = '']</value>
+      <webElementGuid>ef06a9b3-75fa-4fe2-875e-2b478bbcd9c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Admin' or . = 'Admin')]</value>
+      <webElementGuid>c70ee135-09ba-4d39-b2e4-b969c6655a47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

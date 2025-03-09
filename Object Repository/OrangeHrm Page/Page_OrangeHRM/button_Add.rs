@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add</name>
+   <tag></tag>
+   <elementGuidId>131d627e-6d3b-452a-b5f9-f324cd231826</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--secondary ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--medium ') and (@data-v-10d463b7 = '') and (@type = 'button')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-button--secondary.oxd-button.oxd-button--medium[data-v-10d463b7=&quot;&quot;][type=&quot;button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Add&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1857fee8-b219-4b08-9e29-fa9d11b25c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b4425b72-a673-4031-994e-fca818e989a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-button oxd-button--medium oxd-button--secondary</value>
+      <webElementGuid>774dbbb3-3858-488f-9d5c-02df3c8f829d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>2ad2365f-67c9-4539-b0ff-efeba7d2e553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value> Add</value>
+      <webElementGuid>63855d75-4013-4923-877b-594a544efcfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-10d09e0111e7a02cc0c0c647db4edbc4</value>
+      <webElementGuid>01d8bb68-14c2-4c45-aa12-2da6e486e0ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--secondary ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--medium ') and (@data-v-10d463b7 = '') and (@type = 'button')]</value>
+      <webElementGuid>e00efd3b-7d09-44cc-8427-d37977a96165</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--secondary ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--medium ') and (@data-v-10d463b7 = '') and (@type = 'button')]</value>
+      <webElementGuid>f406f1f0-8d47-4efb-aeb0-538f1bde3e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>a03530b2-640d-49db-a63a-df0034d38e14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

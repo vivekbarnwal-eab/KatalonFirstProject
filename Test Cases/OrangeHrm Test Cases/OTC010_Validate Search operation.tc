@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Search operation</description>
+   <name>OTC010_Validate Search operation</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e4e1c66-eb1b-4e09-81e6-993fab35e391</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OTC012_Admin Page Search Record</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdc5e270-d33a-4295-9a92-9e43cfde2904</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Version</name>
+   <tag></tag>
+   <elementGuidId>fc80c991-446e-45ec-a9d5-9dd02bf7645e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (@data-v-d52720b8 = '') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-about-title ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-grid-item--gutters[data-v-d52720b8=&quot;&quot;]:nth-child(3) .orangehrm-about-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Version:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e73e2cf5-1472-4703-a69f-ad995688e6e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p orangehrm-about-title</value>
+      <webElementGuid>2767d5d6-f491-4701-bad4-3015d1915c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Version</value>
+      <webElementGuid>edc65f5b-102a-4fd1-8729-42218d97d997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Version:</value>
+      <webElementGuid>63105d4d-9bf9-48e9-8144-de0b1f9de9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-375fb3cb193e02ff667f221a0e94a7bd</value>
+      <webElementGuid>ea5622e8-5feb-4aba-b6b1-a8b58c59ef73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (@data-v-d52720b8 = '') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-about-title ')]</value>
+      <webElementGuid>e1bba7b0-918d-45b9-83db-3c744efa9e4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (@data-v-d52720b8 = '') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-about-title ')]</value>
+      <webElementGuid>ef98adcb-b32b-4fe6-b01c-abead88373f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Version' or . = 'Version')]</value>
+      <webElementGuid>99a21292-97f1-4209-beec-ea5532bb7e28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
