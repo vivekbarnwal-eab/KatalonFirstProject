@@ -1,0 +1,14 @@
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC001_Login Home Page Validation","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC001_Login Home Page Validation","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC003_Logout from Hrm Page","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC003_Logout from Hrm Page","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC004_About Page","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC004_About Page","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC005_Support Page","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC005_Support Page","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC006_Validate Change Password Page","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC006_Validate Change Password Page","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC007_Update Login Credential","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC007_Update Login Credential","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC008_verify password field are required in change password page","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC008_verify password field are required in change password page","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC009_Click on cancel in change Password redirect to Dashboard page","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC009_Click on cancel in change Password redirect to Dashboard page","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC010_Validate Search operation","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC010_Validate Search operation","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC011_Admin Page","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC011_Admin Page","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC012_Admin Page Search Record","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC012_Admin Page Search Record","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC013_Leave Page","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC013_Leave Page","iterationVariableName":""}
+{"testCaseName":"Test Cases/OrangeHrm Test Cases/OTC014_Time Page","testCaseId":"Test Cases/OrangeHrm Test Cases/OTC014_Time Page","iterationVariableName":""}

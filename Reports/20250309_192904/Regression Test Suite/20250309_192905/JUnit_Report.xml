@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Regression Test Suite" time="44.795" tests="4" failures="0" errors="0">
+   <testsuite name="Regression Test Suite" tests="4" failures="0" errors="0" time="44.795" skipped="0" timestamp="09-03-2025T19:29:10" hostname="vivekbarnwal - localhost" id="Test Suites/Regression Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/vivekbarnwal/git/KatalonFirstProject/Reports/20250309_192904/Regression Test Suite/20250309_192905"/>
+         <property name="logFiles" value="/Users/vivekbarnwal/git/KatalonFirstProject/Reports/20250309_192904/Regression Test Suite/20250309_192905/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="vivekbarnwal - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Chrome 133.0.6943.142"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="2d07a56a7a334841d156e571989245fb"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/OrangeHrm Test Cases/OTC001_Login Home Page Validation" time="9.805" classname="Test Cases/OrangeHrm Test Cases/OTC001_Login Home Page Validation" status="PASSED">
+         <system-out><![CDATA[09-03-2025T19:29:10 - [TEST_CASE][PASSED] - Test Cases/OrangeHrm Test Cases/OTC001_Login Home Page Validation: Test Cases/OrangeHrm Test Cases/OTC001_Login Home Page Validation
+
+09-03-2025T19:29:10 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+09-03-2025T19:29:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-03-2025T19:29:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-03-2025T19:29:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-03-2025T19:29:13 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+09-03-2025T19:29:18 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+09-03-2025T19:29:18 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username' is visible
+
+09-03-2025T19:29:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:19 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username' is visible
+
+09-03-2025T19:29:19 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367' is present
+
+09-03-2025T19:29:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:19 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367' is present
+
+09-03-2025T19:29:19 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367_1"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367_1' is present
+
+09-03-2025T19:29:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:19 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367_1' is present
+
+09-03-2025T19:29:19 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login' is present
+
+09-03-2025T19:29:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:19 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login' is present
+
+09-03-2025T19:29:19 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367_1_2"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367_1_2' is present
+
+09-03-2025T19:29:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:20 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367_1_2' is present
+
+09-03-2025T19:29:20 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username' is present
+
+09-03-2025T19:29:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:20 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username' is present
+
+09-03-2025T19:29:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-03-2025T19:29:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/OrangeHrm Test Cases/OTC003_Logout from Hrm Page" time="11.221" classname="Test Cases/OrangeHrm Test Cases/OTC003_Logout from Hrm Page" status="PASSED">
+         <system-out><![CDATA[09-03-2025T19:29:20 - [TEST_CASE][PASSED] - Test Cases/OrangeHrm Test Cases/OTC003_Logout from Hrm Page: Test Cases/OrangeHrm Test Cases/OTC003_Logout from Hrm Page
+
+09-03-2025T19:29:20 - [TEST_STEP][PASSED] - callTestCase(findTestCase("OrangeHrm Test Cases/OTC002_Login with Valid Credential"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential' successfully
+
+09-03-2025T19:29:20 - [TEST_CASE][PASSED] - Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential: Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential
+
+09-03-2025T19:29:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+09-03-2025T19:29:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-03-2025T19:29:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-03-2025T19:29:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-03-2025T19:29:21 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+09-03-2025T19:29:24 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+09-03-2025T19:29:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username'
+
+09-03-2025T19:29:25 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username'
+
+09-03-2025T19:29:25 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Password_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Password_password'
+
+09-03-2025T19:29:25 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Password_password'
+
+09-03-2025T19:29:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login")): Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login' is clicked on
+
+09-03-2025T19:29:26 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login' is clicked on
+
+09-03-2025T19:29:26 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367' is present
+
+09-03-2025T19:29:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:28 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367' is present
+
+09-03-2025T19:29:28 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential' successfully
+
+09-03-2025T19:29:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i")): Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i' is clicked on
+
+09-03-2025T19:29:29 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i' is clicked on
+
+09-03-2025T19:29:29 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Logout"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Logout' is present
+
+09-03-2025T19:29:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:29 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Logout' is present
+
+09-03-2025T19:29:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Logout")): Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Logout' is clicked on
+
+09-03-2025T19:29:30 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Logout' is clicked on
+
+09-03-2025T19:29:30 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Login"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Login' is visible
+
+09-03-2025T19:29:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:31 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Login' is visible
+
+09-03-2025T19:29:31 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Login"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Login' is present
+
+09-03-2025T19:29:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:31 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Login' is present
+
+09-03-2025T19:29:31 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login' is present
+
+09-03-2025T19:29:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:31 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login' is present
+
+09-03-2025T19:29:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-03-2025T19:29:31 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/OrangeHrm Test Cases/OTC004_About Page" time="11.629" classname="Test Cases/OrangeHrm Test Cases/OTC004_About Page" status="PASSED">
+         <system-out><![CDATA[09-03-2025T19:29:31 - [TEST_CASE][PASSED] - Test Cases/OrangeHrm Test Cases/OTC004_About Page: Test Cases/OrangeHrm Test Cases/OTC004_About Page
+
+09-03-2025T19:29:31 - [TEST_STEP][PASSED] - callTestCase(findTestCase("OrangeHrm Test Cases/OTC002_Login with Valid Credential"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential' successfully
+
+09-03-2025T19:29:31 - [TEST_CASE][PASSED] - Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential: Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential
+
+09-03-2025T19:29:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+09-03-2025T19:29:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-03-2025T19:29:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-03-2025T19:29:32 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-03-2025T19:29:32 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+09-03-2025T19:29:35 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+09-03-2025T19:29:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username'
+
+09-03-2025T19:29:36 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username'
+
+09-03-2025T19:29:36 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Password_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Password_password'
+
+09-03-2025T19:29:36 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Password_password'
+
+09-03-2025T19:29:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login")): Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login' is clicked on
+
+09-03-2025T19:29:38 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login' is clicked on
+
+09-03-2025T19:29:38 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367' is present
+
+09-03-2025T19:29:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:40 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367' is present
+
+09-03-2025T19:29:40 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential' successfully
+
+09-03-2025T19:29:40 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i' is visible
+
+09-03-2025T19:29:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:40 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i' is visible
+
+09-03-2025T19:29:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i")): Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i' is clicked on
+
+09-03-2025T19:29:40 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i' is clicked on
+
+09-03-2025T19:29:40 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/a_About"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_About' is present
+
+09-03-2025T19:29:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:41 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_About' is present
+
+09-03-2025T19:29:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/a_About")): Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_About' is clicked on
+
+09-03-2025T19:29:41 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_About' is clicked on
+
+09-03-2025T19:29:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/h6_About"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h6_About' is present
+
+09-03-2025T19:29:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:42 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h6_About' is present
+
+09-03-2025T19:29:42 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Company Name"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Company Name' is present
+
+09-03-2025T19:29:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:42 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Company Name' is present
+
+09-03-2025T19:29:42 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Version"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Version' is present
+
+09-03-2025T19:29:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:42 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Version' is present
+
+09-03-2025T19:29:42 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Active Employees"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Active Employees' is present
+
+09-03-2025T19:29:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:42 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Active Employees' is present
+
+09-03-2025T19:29:42 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Employees Terminated"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Employees Terminated' is present
+
+09-03-2025T19:29:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:43 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/p_Employees Terminated' is present
+
+09-03-2025T19:29:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/button_")): Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_' is clicked on
+
+09-03-2025T19:29:43 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_' is clicked on
+
+09-03-2025T19:29:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-03-2025T19:29:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/OrangeHrm Test Cases/OTC013_Leave Page" time="12.061" classname="Test Cases/OrangeHrm Test Cases/OTC013_Leave Page" status="PASSED">
+         <system-out><![CDATA[09-03-2025T19:29:43 - [TEST_CASE][PASSED] - Test Cases/OrangeHrm Test Cases/OTC013_Leave Page: Test Cases/OrangeHrm Test Cases/OTC013_Leave Page
+
+09-03-2025T19:29:43 - [TEST_STEP][PASSED] - callTestCase(findTestCase("OrangeHrm Test Cases/OTC002_Login with Valid Credential"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential' successfully
+
+09-03-2025T19:29:43 - [TEST_CASE][PASSED] - Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential: Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential
+
+09-03-2025T19:29:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+09-03-2025T19:29:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-03-2025T19:29:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-03-2025T19:29:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-03-2025T19:29:44 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+09-03-2025T19:29:46 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+09-03-2025T19:29:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username'
+
+09-03-2025T19:29:47 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Username_username'
+
+09-03-2025T19:29:47 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Password_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Password_password'
+
+09-03-2025T19:29:48 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/input_Password_password'
+
+09-03-2025T19:29:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login")): Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login' is clicked on
+
+09-03-2025T19:29:49 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Login' is clicked on
+
+09-03-2025T19:29:49 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367' is present
+
+09-03-2025T19:29:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:51 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/body_root             --oxd-primary-one-col_45f367' is present
+
+09-03-2025T19:29:51 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/OrangeHrm Test Cases/OTC002_Login with Valid Credential' successfully
+
+09-03-2025T19:29:51 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Leave"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Leave' is visible
+
+09-03-2025T19:29:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:51 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Leave' is visible
+
+09-03-2025T19:29:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Leave")): Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Leave' is clicked on
+
+09-03-2025T19:29:52 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/a_Leave' is clicked on
+
+09-03-2025T19:29:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Leave List")): Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Leave List' is clicked on
+
+09-03-2025T19:29:53 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Leave List' is clicked on
+
+09-03-2025T19:29:53 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Leave List"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Leave List' is visible
+
+09-03-2025T19:29:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:53 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Leave List' is visible
+
+09-03-2025T19:29:53 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Leave List"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Leave List' is present
+
+09-03-2025T19:29:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:54 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/h5_Leave List' is present
+
+09-03-2025T19:29:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/label_Employee Name")): Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/label_Employee Name' is clicked on
+
+09-03-2025T19:29:54 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHrm Page/Page_OrangeHRM/label_Employee Name' is clicked on
+
+09-03-2025T19:29:54 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/label_Employee Name"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/label_Employee Name' is present
+
+09-03-2025T19:29:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:54 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/label_Employee Name' is present
+
+09-03-2025T19:29:54 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Search"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Search' is present
+
+09-03-2025T19:29:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:54 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Search' is present
+
+09-03-2025T19:29:54 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Reset"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Reset' is present
+
+09-03-2025T19:29:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:55 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/button_Reset' is present
+
+09-03-2025T19:29:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OrangeHrm Page/Page_OrangeHRM/span_(5) Records Found"), 0): Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/span_(5) Records Found' is present
+
+09-03-2025T19:29:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-03-2025T19:29:55 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHrm Page/Page_OrangeHRM/span_(5) Records Found' is present
+
+09-03-2025T19:29:55 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-03-2025T19:29:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[09-03-2025T19:29:10 - [TEST_SUITE][PASSED] - Regression Test Suite: Test Cases/OrangeHrm Test Cases/OTC013_Leave Page]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
