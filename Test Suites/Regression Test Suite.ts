@@ -25,11 +25,4 @@
       <testCaseId>Test Cases/OrangeHrm Test Cases/OTC003_Logout from Hrm Page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>785d7003-841b-458d-bb4e-fe7bf0faf7a7</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/OrangeHrm Test Cases/OTC004_About Page</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>
